@@ -1,0 +1,3 @@
+I have notes stored in me
+I have data stored in me
+I have logs stored in me
